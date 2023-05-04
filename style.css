@@ -1,0 +1,13 @@
+.bg-img{
+   background-size: cover;
+   background-image: url("assets/dungeon.png");
+   background-repeat: no-repeat;
+}
+.glass{
+   backdrop-filter: blur(10px);
+   background-color: rgba(130, 130, 130, 0.345);
+   }  
+
+body{
+   font-family: 'Lacquer', cursive;
+}
